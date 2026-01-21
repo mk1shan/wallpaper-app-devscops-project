@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: wallpaper-app
-        image: sevenajay/wallpaper-app:latest
+        image: mudipa/wallpaper-app:latest
         ports:
         - containerPort: 80
